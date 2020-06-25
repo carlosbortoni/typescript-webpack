@@ -16,6 +16,3 @@ Para gerar o build
 ```
 npm run build
 ```
-
-
-> Estudo realizado por: Carlos Bortoni
