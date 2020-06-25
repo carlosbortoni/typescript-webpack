@@ -2,6 +2,8 @@
 
 ### Exemplo básico de integração
 
+Site [Webpack](https://webpack.js.org/) :computer:
+
 Este exemplo foi construído em base da documentação: [TypeScript + Webpack](https://webpack.js.org/guides/typescript/). :coffee:
 
 Instalação
